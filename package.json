@@ -1,0 +1,26 @@
+{
+  "name": "phrank",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tindolt/Phrank.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "tindolt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tindolt/Phrank/issues"
+  },
+  "homepage": "https://github.com/tindolt/Phrank#readme"
+}
